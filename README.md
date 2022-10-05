@@ -1,1 +1,1 @@
-# Frontend-Study
+## Frontend 관련 기술스택에 대해 정리하는 공간
