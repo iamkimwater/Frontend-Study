@@ -22,3 +22,17 @@
 ### **각 서버의 역할**
 * 백엔드 서버 : 데이터 처리, 디비 연동
 * 프론트 서버 : 화면 렌더링, 검색엔진 최적화
+
+### **초기 세팅**
+* front
+```
+npm init
+
+npm i react react-dom next
+
+npm i -D nodemon webpack
+
+npm i -D eslint
+
+.eslintrc 파일 생성
+```
